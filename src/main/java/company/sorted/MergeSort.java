@@ -35,7 +35,7 @@ public class MergeSort {
         // 临时数组
         int[] tmpArr = new int[data.length];
         // 右数组第一个元素索引
-        int mid = center + 1; 
+        int mid = center + 1;
         // third 记录临时数组的索引
         int third = left;
         // 缓存左数组第一个元素的索引
