@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="1283f514-1635-4a3c-8420-7c9998abe43b" />
+      <option name="name" value="1283f514-1635-4a3c-8420-7c9998abe43b" />
+      <option name="url" value="http://maven.net.cn/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="31e827d9-8eb8-4ea7-a205-ca965813f042" />
+      <option name="name" value="31e827d9-8eb8-4ea7-a205-ca965813f042" />
+      <option name="url" value="http://uk.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="102bc1e1-dcc6-409a-af64-72e2ff9e8c86" />
+      <option name="name" value="102bc1e1-dcc6-409a-af64-72e2ff9e8c86" />
+      <option name="url" value="http://mirrors.ibiblio.org/pub/mirrors/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="8fd72427-0d51-46ea-b282-cba249e6f2ff" />
+      <option name="name" value="8fd72427-0d51-46ea-b282-cba249e6f2ff" />
+      <option name="url" value="http://repo2.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="10dc8060-1a7c-4f29-9266-b800642d7404" />
+      <option name="name" value="10dc8060-1a7c-4f29-9266-b800642d7404" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+  </component>
+</project>

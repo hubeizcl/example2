@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="company.querybypage.UserService">
-    <select id="pageUsers" resultMap="userMapping" parameterType="hashMap">
-        SELECT  DISTINCT  u.*  FROM  T_USER  u  LEFT  JOIN  T_REL_USER_ROLE  ur  ON
-        u.id=ur.user_id
-        LEFT  JOIN  T_ROLE  r  ON  ur.role_id=r.id
-    </select>
-</mapper>
